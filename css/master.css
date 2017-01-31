@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin: 10px auto;
+  background-color: powderblue;
+  padding: 5px;
+  max-width: 600px;
+  border: 2px solid green;
+
+
+}
+
+.members {
+  background-color: darkgrey;
+  width: 250px;
+  margin: 4px;
+  padding:2px 4px;
+  display:inline-block;
+}
+
+#logo {
+  height: 200px;
+  width: 312px;
+  margin: 0px 10px;
+  background-image: url("/images/cronicLogoSmall.gif");
+  display: inline-block;
+}
