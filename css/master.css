@@ -22,10 +22,9 @@ h1 {
   display:inline-block;
 }
 
-#logo {
+img.logo {
   height: 200px;
   width: 312px;
   margin: 0px 10px;
-  background-image: url("/images/cronicLogoSmall.gif");
   display: inline-block;
 }
